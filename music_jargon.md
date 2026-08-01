@@ -1,2 +1,2 @@
-# [Jargon](Jargon.mp3)
+# [Jargon](Jargon.mp3
 ## Stanford CCRMA Workshop
